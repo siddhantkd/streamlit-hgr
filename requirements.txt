@@ -1,0 +1,11 @@
+av==9.2.0
+classification_models==0.1
+image_classifiers==1.0.0
+keras==2.7.0
+matplotlib==3.5.0
+numpy==1.21.4
+opencv_python==4.5.4.58
+segmentation_models==1.0.1
+streamlit_webrtc==0.37.0
+tensorflow==2.7.0
+tqdm==4.62.3
