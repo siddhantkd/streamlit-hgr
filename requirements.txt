@@ -7,5 +7,5 @@ numpy==1.21.4
 opencv_python==4.5.4.58
 segmentation_models==1.0.1
 streamlit_webrtc==0.37.0
-tensorflow-cpu==2.7.0
+tensorflow
 tqdm==4.62.3

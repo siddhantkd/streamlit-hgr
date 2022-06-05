@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+av = "==9.2.0"
+image-classifiers = "==1.0.0"
+keras = "==2.7.0"
+matplotlib = "==3.5.0"
+numpy = "==1.21.4"
+opencv-python = "==4.5.4.58"
+segmentation-models = "==1.0.1"
+streamlit-webrtc = "==0.37.0"
+tensorflow-cpu = "==2.7.0"
+tqdm = "==4.62.3"
+classification_models = "==0.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
